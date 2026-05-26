@@ -2,7 +2,7 @@
 
 ตารางบันทึกหลักฐานการทำงานรายวันของสมาชิกทีม All in one
 
-## Day 2 Evidence Update
+## Day 1 Evidence Update
 
 | Name | Role | What I did today | Evidence Link/File | Status |
 |---|---|---|---|---|
