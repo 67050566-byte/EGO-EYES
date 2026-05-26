@@ -12,9 +12,9 @@
 ## 3. 👥 Team Members & Contribution Plan
 | Name | Role | Module/Task | Evidence to Submit |
 |---|---|---|---|
-| **[ใส่ชื่อ-นามสกุลของคุณ]** | Project Manager / Scrum Lead | PM Skills & UX-Product | Sprint Board, Test Plan, Repo Management |
-| **[ใส่ชื่อ Hacker]** | Embedded Developer | M3.1 ESP32 + Arduino | Firmware code (.ino), วงจรฮาร์ดแวร์ |
-| **[ใส่ชื่อ Hipster]** | Product / UX Designer | Hardware Prototyping | ไฟล์ 3D .STL, รูปถ่าย Enclosure Case |
+| **[นายภัคภาคิน ปราชญ์เลิศ]** | Project Manager / Scrum Lead | PM Skills & UX-Product | Sprint Board, Test Plan, Repo Management |
+| **[นายวีรภัทร ขุนทอง]** | Embedded Developer | M3.1 ESP32 + Arduino | Firmware code (.ino), วงจรฮาร์ดแวร์ |
+| **[นายสัญตะวัน บุตรสีตะราช]** | Product / UX Designer | Hardware Prototyping | ไฟล์ 3D .STL, รูปถ่าย Enclosure Case |
 
 ## 4. 🗂️ Project Links
 - 📌 **Sprint Board (Kanban):** [แปะลิงก์ Trello หรือ Notion ของทีมตรงนี้]
