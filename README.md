@@ -17,5 +17,5 @@
 | **[นายสัญตะวัน บุตรสีตะราช]** | Product / UX Designer | Hardware Prototyping | ไฟล์ 3D .STL, รูปถ่าย Enclosure Case |
 
 ## 4. 🗂️ Project Links
-- 📌 **Sprint Board (Kanban):** [แปะลิงก์ Trello หรือ Notion ของทีมตรงนี้]
+- 📌 **Sprint Board (Kanban):** https://trello.com/invite/b/6a15d1da07c1ec30fbeb1199/ATTI94018c8db2714104213a48f912f480442108E822/ego-eyes-sprint-board
 - 📝 **Evidence Log:** ดูบันทึกการส่งงานรายวันได้ที่ไฟล์ `docs/evidence-log.md`
