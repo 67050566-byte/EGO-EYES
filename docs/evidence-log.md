@@ -7,5 +7,5 @@
 | Name | Role | What I did today | Evidence Link/File | Status |
 |---|---|---|---|---|
 | [นายภัคภาคิน ปราชญ์เลิศ] | PM / Scrum Lead | อัปเดตบอร์ด, สร้าง Test Plan, จัดการ GitHub Repo | [https://docs.google.com/document/d/19RzThNLFkBZ0RhUMFyqY1zpHskNwdlWaR5RP9DHw3x0/edit?tab=t.0] | Done |
-| [นายวีรภัทร ขุนทอง] | Embedded Dev | เขียนโค้ด Arduino อ่านค่าระยะทางเซนเซอร์ US-100 | [รออัปโหลดไฟล์] | Done |
-| นายสัญตะวัน บุตรสีตะราช] | Product / UX | ขึ้นรูปโมเดล 3D Enclosure เคสหนีบจอ | [รออัปโหลดไฟล์] | Doing |
+| [นายวีรภัทร ขุนทอง] | Embedded Dev | เขียนโค้ด Arduino อ่านค่าระยะทางเซนเซอร์ US-100 | [(https://drive.google.com/drive/folders/1j8teL8OeE2NqWwjIJcRH-DTBh0ASDACd?usp=drive_link)] | Done |
+| นายสัญตะวัน บุตรสีตะราช] | Product / UX | ขึ้นรูปโมเดล 3D Enclosure เคสหนีบจอ | [https://drive.google.com/drive/folders/1ahkdaaykYauv-6ilOiReVjBeP0l-5dcE?usp=drive_link] | Doing |
