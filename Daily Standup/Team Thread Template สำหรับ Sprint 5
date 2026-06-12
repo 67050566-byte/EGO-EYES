@@ -1,0 +1,50 @@
+[4ll for one] Sprint 5 — Prototype v2 Improvement Update
+
+Sprint 5 Goal:
+ปรับปรุง Prototype v2 ของ EGO EYES ให้ใช้งานได้สะดวกขึ้น ลดปัญหาเรื่องการติดตั้งและการจัดวางอุปกรณ์ จาก feedback ที่พบว่าผู้ใช้ติดปัญหาเรื่องพอร์ต USB และขนาดอุปกรณ์ที่เทอะทะ
+
+Feedback ที่เลือกมาแก้:
+
+1. ผู้ใช้มีข้อจำกัดเรื่องพอร์ต USB สำหรับจ่ายไฟให้อุปกรณ์
+2. ผู้ใช้รู้สึกว่าอุปกรณ์มีขนาดใหญ่และทำให้โต๊ะทำงานรก
+3. ตัวหนีบและการจัดสายไฟยังไม่แข็งแรง ทำให้ใช้งานไม่สะดวก
+
+สิ่งที่ปรับใน Prototype v2:
+
+* ปรับระบบจ่ายไฟให้ใช้งานผ่าน Adapter / Type-C แยกจากคอมพิวเตอร์
+* ออกแบบเคส Prototype ใหม่ให้ Compact และติดกับหน้าจอได้ง่ายขึ้น
+* ปรับตัวหนีบและการจัดสายไฟให้แข็งแรงและเป็นระเบียบมากขึ้น
+* ปรับ README และ Demo Script เพื่ออธิบายการใช้งานให้ชัดเจนขึ้น
+
+Before/After Evidence:
+
+* Before: Prototype v1 ต้องเสียบ USB กับโน้ตบุ๊กโดยตรง และกล่องมีขนาดใหญ่
+* After: Prototype v2 ใช้ไฟแยกจากคอมพิวเตอร์ และมีขนาดเล็กลง ติดตั้งง่ายขึ้น
+* Evidence:
+
+  * Hardware Test Video
+  * Screenshot Before/After
+  * GitHub Commit
+  * Updated README
+  * Observation Sheet รอบทดสอบใหม่
+
+Final Demo Link:
+https://github.com/67050566-byte/EGO-EYES
+
+Individual Evidence:
+
+* วีรภัทร (Hacker): ระบบจ่ายไฟใหม่ + Hardware Test
+* สัญตะวัน (Hipster): เคส Prototype v2 + ดีไซน์ใหม่
+* ภิคภาคิน (PM): Observation และ Feedback Summary
+
+
+Known Issues:
+
+* Prototype ยังเป็น Mockup Hardware และยังไม่ได้ผลิตด้วยวัสดุจริง
+* ระบบยังต้องทดสอบระยะยาวในสภาพแวดล้อมการใช้งานจริง
+* ผู้ใช้บางกลุ่มยังไม่เห็นความจำเป็นของผลิตภัณฑ์ หากไม่ได้มีปัญหา Office Syndrome
+
+ต้องการให้อาจารย์/TA ช่วย:
+
+* ขอ feedback เรื่องความเหมาะสมของ Form Factor และแนวทางการทำ Hardware Prototype ให้พร้อมใช้งานจริงมากขึ้น
+* ขอคำแนะนำเกี่ยวกับการเลือกกลุ่มเป้าหมายสำหรับ MVP
